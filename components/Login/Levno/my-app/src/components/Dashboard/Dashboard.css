@@ -1,0 +1,7 @@
+/* Dashboard.css */
+.dashboard {
+    flex: 1;
+    background-color: #ecf0f1;
+    padding: 20px;
+    overflow-y: auto;
+  }
