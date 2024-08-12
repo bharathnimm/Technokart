@@ -1,0 +1,30 @@
+.content {
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(160, 7, 7, 0.897);
+    /* justify-content: space-around; */
+  }
+  
+  .text-block {
+    max-width: 500px;
+    /* text-align: left; */
+    display:flex;
+  }
+  
+  .image-block img {
+    max-width: 500px;
+    width: 100%;
+  }
+  .para1{
+   color: antiquewhite;
+    margin-left:560px;
+  }
+  .para{
+    color: white;
+    display:flex;
+    justify-content:end;
+    align-items:flex-start;
+    margin-left:40px;
+  }
+  
